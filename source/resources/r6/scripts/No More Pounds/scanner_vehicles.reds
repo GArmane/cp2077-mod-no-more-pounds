@@ -1,3 +1,6 @@
+// Vehicle scanner tooltip.
+module NoMorePounds.ScannerVehicles
+
 @wrapMethod(VehicleObject)
 public final func CompileScannerChunks() -> Bool {
     if(wrappedMethod()) {

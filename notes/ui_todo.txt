@@ -1,0 +1,17 @@
+Screens with weight in pounds
+    (DONE) Inventory, top bar.
+    Inventory, item preview.
+    Inventory, backpack, item preview.
+    Looting ground, item preview.
+    Looting body, item preview.
+    Buy/Sell, item preview.
+    Buy/Sell, top bar.
+    Stats, others, carrying capacity.
+    Passives, Solo, 5 and 25.
+    Cyberware, Titanium Bones.
+    Cyberware, bonuses.
+
+Perks/Passives to change
+    Headhunter 40
+    Shinobi 50
+    Onslaught, ultimate body.

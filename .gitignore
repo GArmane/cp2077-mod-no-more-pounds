@@ -1,0 +1,6 @@
+# Build files
+packed/
+*.zip
+
+# VSCode Workspace files
+*.code-workspace

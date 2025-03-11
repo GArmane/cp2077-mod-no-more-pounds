@@ -1,6 +1,7 @@
 # Build files
 packed/
 *.zip
+install_log.xml
 
 # VSCode Workspace files
 *.code-workspace

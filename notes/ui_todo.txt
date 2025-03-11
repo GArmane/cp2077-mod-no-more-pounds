@@ -10,6 +10,7 @@ Screens with weight in pounds
     Passives, Solo, 5 and 25.
     Cyberware, Titanium Bones.
     Cyberware, bonuses.
+    (DONE) Scanner, vehicles.
 
 Perks/Passives to change
     Headhunter 40

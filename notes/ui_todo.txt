@@ -2,7 +2,7 @@ Screens with weight in pounds
     (DONE) Inventory, top bar.
     Inventory, item preview.
     Inventory, backpack, item preview.
-    Looting ground, item preview.
+    (DONE) Looting ground, item preview.
     Looting body, item preview.
     Buy/Sell, item preview.
     Buy/Sell, top bar.

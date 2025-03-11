@@ -8,7 +8,7 @@ public final func CompileScannerChunks() -> Bool {
 		let uiData: ref<VehicleUIData_Record>;
 		uiData = this.GetRecord().VehicleUIData();
         massChunk = new ScannerVehicleMass();
-        massChunk.Set(RoundMath(MeasurementUtils.ValueToPlayerSettingSystem(uiData.Mass(), EMeasurementUnit.Kilogram)));
+        massChunk.Set(RoundMath(uiData.Mass()));
 
         let scannerBlackboard: ref<IBlackboard>;
         scannerBlackboard = GameInstance.GetBlackboardSystem(GetGameInstance()).Get(GetAllBlackboardDefs().UI_ScannerModules);

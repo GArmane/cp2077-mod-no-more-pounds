@@ -1,4 +1,5 @@
-// Fullscreen HUB menu, when you press Pause
+// Fullscreen HUB menu, when you press Pause.
+/*
 module NoMorePounds.UIFullscreenHub
 
 @wrapMethod(SubMenuPanelLogicController)
@@ -16,3 +17,4 @@ public final func HandlePlayerWeightUpdated( value : Float, maxWeight : Int32 ) 
 
     wrappedMethod(value, maxWeight);
 }
+*/

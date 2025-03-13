@@ -1,0 +1,5 @@
+localization:
+  onscreens:
+    en-us: no_more_pounds\localization\en-us.json
+    de-de: no_more_pounds\localization\de-de.json
+    pt-br: no_more_pounds\localization\pt-br.json

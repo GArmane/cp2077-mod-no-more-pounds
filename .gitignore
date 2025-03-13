@@ -3,5 +3,8 @@ packed/
 *.zip
 install_log.xml
 
+# WolvenKit files
+layout.xml
+
 # VSCode Workspace files
 *.code-workspace

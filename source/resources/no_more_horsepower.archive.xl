@@ -1,0 +1,5 @@
+localization:
+  onscreens:
+    en-us: no_more_horsepower\localization\en-us.json
+    de-de: no_more_horsepower\localization\de-de.json
+    pt-br: no_more_horsepower\localization\pt-br.json
